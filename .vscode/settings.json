@@ -3,5 +3,6 @@
         "cupertino",
         "datetime",
         "Schyler"
-    ]
+    ],
+    "cmake.configureOnOpen": false
 }
